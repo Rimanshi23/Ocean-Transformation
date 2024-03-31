@@ -1,0 +1,16 @@
+body{
+    background-color:papayawhip;
+}
+
+#gamecanvas{
+    background-color:steelblue;
+    height: 500px;
+    width: 800px;
+    border-width: 5px;
+    border-color: olive;
+    border-style: ridge;
+}
+
+h1,h2,h3{
+    font-family: fantasy;
+}
